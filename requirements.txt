@@ -9,4 +9,4 @@ keras==1.1.2
 pytest==3.0.4
 scikit_learn==0.18.1
 gevent_socketio==0.3.6
-tensorflow==2.5.2
+tensorflow==2.5.3
